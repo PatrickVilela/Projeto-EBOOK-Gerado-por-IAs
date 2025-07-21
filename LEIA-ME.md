@@ -6,6 +6,8 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 Assim a partir do conteudos do Bootcamp TONNIE - Java and AI in Europe, realizando o Desafio de Projeto - Criando um Ebook com ChatGPT e Midjourney
 
-Foi desenvolvido um Ebook, chamado ## Desmistificando a Inteligência Artificial: Um Guia Prático para Iniciantes
+Foi desenvolvido um Ebook, chamado: 
+
+## Desmistificando a Inteligência Artificial: Um Guia Prático para Iniciantes
 
 💻 Tecnologias utilizadas no projeto
