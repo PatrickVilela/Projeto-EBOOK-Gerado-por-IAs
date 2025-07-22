@@ -8,7 +8,7 @@ Assim a partir do conteudos do Bootcamp TONNIE - Java and AI in Europe, realizan
 
 Foi desenvolvido um Ebook, chamado: 
 
-### Desmistificando a Inteligência Artificial: Um Guia Prático para Iniciantes
+##### Desmistificando a Inteligência Artificial: Um Guia Prático para Iniciantes
 
 📕 https://github.com/PatrickVilela/Projeto-EBOOK-Gerado-por-IAs/commit/209d81287b7f438689ec4360773aef368d4f18fd
 
@@ -24,7 +24,7 @@ FREEPIK
 
 POWER POINT
 
-## Prompt para gerar a sugestão de Titulo:
+#### Prompt para gerar a sugestão de Titulo:
 
 Estou fazendo um projeto pratico de criar um ebook com IA. Quero sua ajudar com sugestões de Titulos de ebooks para o tema tecnologia e falar de Inteligência Artificial, ou N8N,ou automações, ou Ferramentas de Visualização de dados, ou Python, IA para negocios ou ferramentas de IA. Poderia me dar sugestões de titulos e assuntos para criar este ebook.
 
@@ -42,7 +42,7 @@ Resultados:
 
 -> Ferramentas de IA Essenciais para Profissionais de Tecnologia
 
-## Prompt para gerar o ebook:
+#### Prompt para gerar o ebook:
 
 Faça um texto para ebook, com foco em Inteligência Artificial, abordandoo o titulo Desmistificando a Inteligência Artificial: Um Guia Prático para Iniciantes. Este ebook pode abordar os conceitos básicos de IA, seus diferentes tipos (aprendizado de máquina, redes neurais, etc.) e aplicações práticas em diversas áreas.
 
@@ -55,11 +55,16 @@ Faça um texto para ebook, com foco em Inteligência Artificial, abordandoo o ti
 
 > Sempre deixe um titulo sugestivo por tópico.
 
+
+
+
 ✨ Características
 
 Conteúdo gerado via ChatGPT
 
 Imagens geradas via Tess.ai (Leonardo.AI/MidJorney) e Freepik
+
+
 
 
 📚 Materiais
