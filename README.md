@@ -31,10 +31,15 @@ Estou fazendo um projeto pratico de criar um ebook com IA. Quero sua ajudar com 
 Resultados:
 
 -> Desmistificando a Inteligência Artificial: Um Guia Prático para Iniciantes
+
 -> Automação Inteligente com N8N: Simplificando Fluxos de Trabalho
+
 -> Visualização de Dados com IA: Transformando Informação em Insights
+
 -> Python para IA: Um Guia Completo para Desenvolvedores
+
 -> IA para Negócios: Estratégias e Ferramentas para Impulsionar o Crescimento
+
 -> Ferramentas de IA Essenciais para Profissionais de Tecnologia
 
 ## Prompt para gerar o ebook:
@@ -43,17 +48,23 @@ Faça um texto para ebook, com foco em Inteligência Artificial, abordandoo o ti
 
 (Regras)
 > Explique sempre de uma maneira simples
+
 > Deixe o texto bem elaborados
+
 > Sempre traga exemplos de contextos reais para exemplificar os conceitos e exemplos
+
 > Sempre deixe um titulo sugestivo por tópico.
 
 ✨ Características
+
 Conteúdo gerado via ChatGPT
+
 Imagens geradas via Tess.ai (Leonardo.AI/MidJorney) e Freepik
 
 
 📚 Materiais
 
 Imagens utilizadas emassets
+
 ebook gerado durante as aulas emoutput
 
