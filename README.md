@@ -10,13 +10,18 @@ Foi desenvolvido um Ebook, chamado:
 
 ### Desmistificando a Inteligência Artificial: Um Guia Prático para Iniciantes
 
-📕 
+📕 https://github.com/PatrickVilela/Projeto-EBOOK-Gerado-por-IAs/commit/209d81287b7f438689ec4360773aef368d4f18fd
 
 💻 Tecnologias utilizadas no projeto
 
 CHATGPT
-TESS.AI
+
+TESS.AI (Modelos Leonardo.AI/Midjourney)
+
+Midjourney
+
 FREEPIK
+
 POWER POINT
 
 ## Prompt para gerar a sugestão de Titulo:
